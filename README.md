@@ -10,6 +10,8 @@ A tiny language model (fine-tuned from bert-base-chinese) designed to distinguis
 - Pandas
 - Numpy
 
+Download bert-base-chinese model from [Huggingface](https://huggingface.co/google-bert/bert-base-chinese) and put in under current director.
+
 ## Train
 
 Fully run `src.ipynb` 
@@ -22,4 +24,5 @@ Besides, you can simply test single sentence/paragraph in `Exploratory Testing` 
 
 ## Model
 
-We have trained the model for 11 epoch. You can used the latest model stored in directory `saved_model`
+We have trained the model for 11 epoch. You can used the latest model stored at
+[here](https://1drv.ms/f/s!Aq4MM6V8l81UhpoNJM47hiar7vNArA?e=m9Fk5a).
